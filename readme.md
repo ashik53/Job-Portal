@@ -1,4 +1,4 @@
 ## Screenshots
-![Home Page](/screenshots/homepage_logout.jpg)
+![Home Page](/screenshots/homepage_logout.png)
 
 
