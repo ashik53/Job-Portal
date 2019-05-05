@@ -1,5 +1,5 @@
 ## Screenshots
-![Login Page](/screenshots/ogin.PNG)
+![Login Page](/screenshots/login.PNG)
 ![Sign In Page](/screenshots/2.png)
 ![Registration Page](/screenshots/3.png)
 ![ToDo List Page](/screenshots/4.png)
