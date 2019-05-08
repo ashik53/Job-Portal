@@ -1,3 +1,9 @@
+# Laravel Job Portal
+
+This is a job portal application with multiple user support.
+
+This is built on Laravel Framework 5.8. 
+
 ## Screenshots
 ![Login Page](/screenshots/login.PNG)
 ![Registration Page](/screenshots/register.PNG)
